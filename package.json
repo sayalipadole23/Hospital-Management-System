@@ -1,0 +1,19 @@
+{
+  "name": "hospital-management-system",
+  "version": "1.0.0",
+  "description": "SwasthyaCare Hospital Management & Appointment Booking System",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "hospital-management",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "SwasthyaCare",
+  "license": "ISC"
+}
